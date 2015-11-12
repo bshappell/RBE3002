@@ -72,7 +72,7 @@ if __name__ == '__main__':
     worldMapSub = rospy.Subscriber('/map', OccupancyGrid, readWorldMap)
     markerSub = rospy.Subscriber('/move_base_simple/goal', PoseStamped, readGoal)
     sub = rospy.Subscriber("/initialPose", PoseWithCovarianceStamped, startCallBack)
-	cellPub = rospy.Publisher('/cell_path', GridCells)
+    cellPub = rospy.Publisher('/cell_path', GridCells)
     pathPub = rospy.Publisher('/path_path', Path)
 
     target = 0
