@@ -1,0 +1,8 @@
+prefix=/home/rbe/RBE3002/devel
+
+Name: lab3
+Description: Description of lab3
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rbe/RBE3002/devel/lib 
+Requires: 

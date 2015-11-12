@@ -1,0 +1,2 @@
+lab3
+-DCATKIN_DEVEL_PREFIX=/home/rbe/RBE3002/devel -DCMAKE_INSTALL_PREFIX=/home/rbe/RBE3002/install -G Unix Makefiles
