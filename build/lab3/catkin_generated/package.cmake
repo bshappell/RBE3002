@@ -1,5 +1,5 @@
 set(_CATKIN_CURRENT_PACKAGE "lab3")
-set(lab3_MAINTAINER "rbe <rbe@todo.todo>")
+set(lab3_MAINTAINER "nkjefferson <nkjefferson@wpi.edu>")
 set(lab3_DEPRECATED "")
 set(lab3_VERSION "0.0.0")
 set(lab3_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
